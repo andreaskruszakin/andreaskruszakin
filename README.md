@@ -9,7 +9,7 @@ Right now I'm a Senior Product Design Engineer at [Cal.com](https://cal.com), wo
 #### What I build
 
 - **Cheval.** My design system. Tokens, 22 themes, icons, components and motion, and every project I start pulls from it.
-- **Design Studios.** Prototyping playgrounds where I design each screen in code, crit it against written principles, and pick from variants that disagree with each other.
+- **Design Studio.** Prototyping playground where I design each screen in code, crit it against written principles, and pick from variants that disagree with each other.
 - **Sites and products for founders.** Early-stage teams who need a customer or an investor to understand the product on the first screen.
 - **Motion studies.** Shaders, generative grids, WebGL card scenes, and the occasional animated horse.
 
