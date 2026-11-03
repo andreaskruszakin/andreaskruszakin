@@ -1,10 +1,10 @@
-### Andreas Kruszakin-Liboska
+### Andreas Kruszakin
 
 A system with a feeling.
 
 I'm Andreas, a growth-focused design engineer who is design first and builds the system underneath. I make founders' products easy to get, so customers buy and investors say yes, which so far has meant £1.4M raised for Neos and $172M for Schneider Electric.
 
-Right now I'm a Senior Product Design Engineer at [Cal.com](https://cal.com), working on [coss ui](https://coss.com/ui), accessibility, and the production UI that sits on top of them. Based in Amsterdam.
+Right now I'm a Senior Product Design Engineer at [Cal.com](https://cal.com), working on [coss ui](https://coss.com/ui), accessibility, and the production UI that sits on top of them. Based in Europe.
 
 #### What I build
 
