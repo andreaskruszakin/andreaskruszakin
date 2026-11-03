@@ -13,6 +13,12 @@ Right now I'm a Senior Product Design Engineer at [Cal.com](https://cal.com), wo
 - **Sites and products for founders.** Early-stage teams who need a customer or an investor to understand the product on the first screen.
 - **Motion studies.** Shaders, generative grids, WebGL card scenes, and the occasional animated horse.
 
+#### Selected work
+
+- [A dashboard redesign for Schneider Electric](https://andreas.vision/work/schneider), made in three weeks by three of us for the world's largest energy event.
+- [Cheval Studio](https://andreas.vision/work/design-studio), where an iteration takes about 23 minutes instead of half a day.
+- [What is a design engineer, anyway?](https://andreas.vision/notes/what-is-a-design-engineer), how I read the role and where I sit on it.
+
 #### Stack
 
 TypeScript, React, Next.js, Convex, Emotion, Framer Motion, GSAP, WebGL, Sanity, Vercel. Figma when a static canvas earns its place, Cursor and Claude Code for the rest.
