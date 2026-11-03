@@ -1,6 +1,4 @@
-### Andreas Kruszakin
-
-A system with a feeling.
+### A builder with a feeling.
 
 I'm Andreas, a growth-focused design engineer who is design first and builds the system underneath. I make founders' products easy to get, so customers buy and investors say yes, which so far has meant £1.4M raised for Neos and $172M for Schneider Electric.
 
