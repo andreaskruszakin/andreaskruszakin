@@ -19,7 +19,7 @@ Right now I'm a Senior Product Design Engineer at [Cal.com](https://cal.com), wo
 
 #### Stack
 
-TypeScript, React, Next.js, Convex, Emotion, Framer Motion, GSAP, WebGL, Sanity, Vercel. Figma when a static canvas earns its place, Cursor and Claude Code for the rest.
+TypeScript, React, Next.js, Convex, Emotion, Framer Motion, GSAP, WebGL, Sanity, Vercel. T3 Code running parallel agents from Cursor and Claude Code for the rest.
 
 #### Elsewhere
 
